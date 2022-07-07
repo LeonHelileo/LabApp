@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		35050E772876E203005FDA2E /* ClosuresViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35050E762876E203005FDA2E /* ClosuresViewController.swift */; };
 		351B2A2C2875780000957FA6 /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 351B2A2B2875780000957FA6 /* MenuViewController.swift */; };
 		35DA61F7287572C600BD85CD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35DA61F6287572C600BD85CD /* AppDelegate.swift */; };
 		35DA61F9287572C600BD85CD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35DA61F8287572C600BD85CD /* SceneDelegate.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		35050E762876E203005FDA2E /* ClosuresViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClosuresViewController.swift; sourceTree = "<group>"; };
 		351B2A2B2875780000957FA6 /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
 		35DA61F3287572C600BD85CD /* LabApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LabApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		35DA61F6287572C600BD85CD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				35DA61FA287572C600BD85CD /* ViewController.swift */,
 				35DA61FC287572C600BD85CD /* Main.storyboard */,
 				351B2A2B2875780000957FA6 /* MenuViewController.swift */,
+				35050E762876E203005FDA2E /* ClosuresViewController.swift */,
 				35DA61FF287572C700BD85CD /* Assets.xcassets */,
 				35DA6201287572C700BD85CD /* LaunchScreen.storyboard */,
 				35DA6204287572C700BD85CD /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				35050E772876E203005FDA2E /* ClosuresViewController.swift in Sources */,
 				35DA61FB287572C600BD85CD /* ViewController.swift in Sources */,
 				35DA61F7287572C600BD85CD /* AppDelegate.swift in Sources */,
 				35DA61F9287572C600BD85CD /* SceneDelegate.swift in Sources */,
